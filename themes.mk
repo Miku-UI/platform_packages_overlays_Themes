@@ -132,5 +132,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     MikuThemesStub
 
+# RRO Overlays
+PRODUCT_PACKAGES += \
+    NavigationBarNoHintOverlay
+
 # Plugins
 #-include packages/apps/PotatoPlugins/plugins.mk
