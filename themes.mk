@@ -101,6 +101,7 @@ PRODUCT_PACKAGES += \
     IconShapeStretchedOverlay \
     IconShapePebbleOverlay \
     IconShapeRoundedRectOverlay \
+    IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
