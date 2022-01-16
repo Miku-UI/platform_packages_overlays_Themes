@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "IconShapeSquircleOverlay",
-    theme: "IconShapeSquircle",
+    name: "IconShapeRoundOverlay",
+    theme: "IconShapeRound",
     product_specific: true,
 }
