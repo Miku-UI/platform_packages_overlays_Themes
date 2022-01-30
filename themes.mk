@@ -75,6 +75,7 @@ PRODUCT_PACKAGES += \
     IconPackSamSettingsOverlay \
     IconPackSamSystemUIOverlay \
     IconPackSamThemePickerOverlay \
+    IconPackSneakyAndroidOverlay \
     IconPackKaiAndroidOverlay \
     IconPackKaiLauncherOverlay \
     IconPackKaiSettingsOverlay \
